@@ -1,6 +1,8 @@
+import logo from '../../resources/logo.svg';
+
 import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+
+import './App.less';
 
 const App = (): JSX.Element => (
   <div className="App">
