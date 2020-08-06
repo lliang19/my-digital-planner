@@ -2,11 +2,4 @@ language: node_js
 node_js: node
 before_install:
   - npm i -g npm@6.14.7
-jobs:
-  include:
-    - name: "Lint Test"
-    language: node_js
-    script: npm run lint
-    - name: "Test Suite"
-    language: node_js
-    script: npm run test
+  
