@@ -9,4 +9,4 @@ jobs:
     script: npm run lint
     - name: "Test Suite"
     language: node_js
-    script: npm run
+    script: npm run test
