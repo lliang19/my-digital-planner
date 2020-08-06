@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/lliang19/my-digital-planner.svg?branch=develop)](https://travis-ci.org/lliang19/my-digital-planner)
+[![Build Status](https://travis-ci.org/lliang19/react-typescript-template.svg?branch=develop)](https://travis-ci.org/lliang19/react-typescript-template)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
